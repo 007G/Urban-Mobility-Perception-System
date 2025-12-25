@@ -1,5 +1,5 @@
 """
-main.py - Main script for YOLOv8 detection with ByteTrack tracking
+main.py - Main script for YOLOv8 detection with ByteTrack tracking Algo
 """
 import cv2
 import numpy as np
