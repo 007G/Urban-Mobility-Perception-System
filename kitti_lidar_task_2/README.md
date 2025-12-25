@@ -142,11 +142,19 @@ Run:
 
 python main.py
 
-Results
+## Results
 
-<img width="1224" height="370" alt="overlay_with_distances_000000" src="https://github.com/user-attachments/assets/127790e8-d990-43d1-b132-88077cb07bde" /><img width="1242" height="375" alt="overlay_with_distances_000014" src="https://github.com/user-attachments/assets/060709ea-7892-4559-9d41-11e815788f79" />
-<img width="1242" height="375" alt="overlay_with_distances_000008" src="https://github.com/user-attachments/assets/747dda61-fbf6-4d66-ac9b-1c652bb7cb2b" />
-<img width="1242" height="375" alt="overlay_with_distances_000005" src="https://github.com/user-attachments/assets/bbf1b9e1-8a43-4526-9611-3a3751c7af66" />
+### Frame 000000
+![Frame 000000](overlay_with_distances_000000.png)
+
+### Frame 000005
+![Frame 000005](overlay_with_distances_000005.png)
+
+### Frame 000008
+![Frame 000008](overlay_with_distances_000008.png)
+
+### Frame 000014
+![Frame 000014](overlay_with_distances_000014.png)
 
 
 
