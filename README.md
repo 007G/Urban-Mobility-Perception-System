@@ -403,12 +403,6 @@ The system produces an annotated video with:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## References
 
 - Ultralytics YOLOv8: Object detection framework
@@ -418,8 +412,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contact
-
-Project Repository: [GitHub Link]
-Technical Report: [PDF Link]
-Demo Video: [Video Link]
