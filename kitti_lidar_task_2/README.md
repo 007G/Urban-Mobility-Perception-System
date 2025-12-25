@@ -129,19 +129,6 @@ Pedestrian_1: 8.32m
 
 ---
 
-## How to Run
-
-### Dataset Structure (KITTI)
-
-Update dataset path in `main.py`:
-
-```python
-BASE_PATH = "/kaggle/input/kitti-3d-object-detection-dataset/training"
-
-Run:
-
-python main.py
-
 ## Results
 
 ### Frame 000000
